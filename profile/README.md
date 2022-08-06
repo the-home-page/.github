@@ -1,12 +1,14 @@
-## Hi there 👋
+## The Home Page <img src="https://github.com/the-home-page/.github/blob/main/5258-excited-frog.png?raw=true" align="center" width="35">
 
-<!--
+The Home Page is a comforting and relaxing homepage to keep you productive. You can find the extension on the chromestore and firefox addons. Rather do it on your own? Set your homepage to `https://home.rinted.ml`.
 
-**Here are some ideas to get you started:**
+### Credits
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[**Emojis**](https://emoji.gg/user/860034136734695426) </br>
+[**Hosting (free)**](https://freenom.tk)
+
+### Links
+
+[**Home Page**]() </br>
+[**Chrome extension**]() </br>
+[**Firefox addon**]() </br>
